@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bf57b453300e4e549b0d794c1480d404
+timeCreated: 1556840368
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82008
+  packageName: Ultimate Screenshot Creator
+  packageVersion: 1.11.4
+  assetPath: Assets/AlmostEngine/UltimateScreenshotCreator/Assets/Editor/Presets/StoreScreenshots/AppStore/Apple
+    TV Full HD.asset
+  uploadId: 569867

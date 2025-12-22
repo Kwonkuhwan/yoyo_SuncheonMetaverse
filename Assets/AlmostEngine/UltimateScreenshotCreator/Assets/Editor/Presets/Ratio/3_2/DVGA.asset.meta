@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d9152c9e504e19c4ab668a3ac3081b9b
+timeCreated: 1545143570
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82008
+  packageName: Ultimate Screenshot Creator
+  packageVersion: 1.11.4
+  assetPath: Assets/AlmostEngine/UltimateScreenshotCreator/Assets/Editor/Presets/Ratio/3_2/DVGA.asset
+  uploadId: 569867

@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: c5bdf94a454409d4cb39c43e6f04b292
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82008
+  packageName: Ultimate Screenshot Creator
+  packageVersion: 1.11.4
+  assetPath: Assets/AlmostEngine/Shared/Examples/Prefabs/CameraHolder.prefab
+  uploadId: 569867

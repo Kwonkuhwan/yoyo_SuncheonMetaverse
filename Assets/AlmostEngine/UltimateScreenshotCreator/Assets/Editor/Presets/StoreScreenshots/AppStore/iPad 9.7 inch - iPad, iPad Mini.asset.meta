@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d91c6b02b5ecf9a4b8503d05b4181f9d
+timeCreated: 1556840215
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82008
+  packageName: Ultimate Screenshot Creator
+  packageVersion: 1.11.4
+  assetPath: Assets/AlmostEngine/UltimateScreenshotCreator/Assets/Editor/Presets/StoreScreenshots/AppStore/iPad
+    9.7 inch - iPad, iPad Mini.asset
+  uploadId: 569867

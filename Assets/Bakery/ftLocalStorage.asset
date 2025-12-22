@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05ca84e725c7c764aa5ed097918d14b7, type: 3}
+  m_Name: ftLocalStorage
+  m_EditorClassIdentifier: 
+  modifiedAssetPathList:
+  - Assets/Bakery/examples/content/sponza/sponza.FBX
+  - Assets/QA_Books/Models/Book_33.fbx
+  - Assets/QA_Books/Models/Books_01.fbx
+  - Assets/QA_Books/Models/Book_14.fbx
+  - Assets/QA_Books/Models/Book_20.fbx
+  - Assets/QA_Books/Models/Book_02.fbx
+  - Assets/QA_Books/Models/Book_39.fbx
+  - Assets/QA_Books/Models/Book_24.fbx
+  - Assets/QA_Books/Models/Book_05.fbx
+  - Assets/QA_Books/Models/Books_09.fbx
+  - Assets/QA_Books/Models/BookS_11.fbx
+  - Assets/QA_Books/Models/Book_45.fbx
+  - Assets/QA_Books/Models/Book_12.fbx
+  - Assets/QA_Books/Models/Books_10.fbx
+  - Assets/QA_Books/Models/Book_15.fbx
+  - Assets/QA_Books/Models/Books_34.fbx
+  - Assets/Stylized Fantasy Vegetation 6/Models/FV6/Grass/Grass_3.fbx
+  - Assets/Stylized Fantasy Vegetation 6/Models/FV6/Bushes/Bush_4.fbx
+  - Assets/ART/7.Ocheon green/1004_bjw_Ocheon/FBX/ChairBed.fbx
+  - Assets/ART/7.Ocheon green/FBX/water garden.fbx
+  - Assets/Stylized Fantasy Vegetation 6/Models/FV6/Aquatic_plants/Flower_nenuphar_1.fbx
+  - Assets/Stylized Fantasy Vegetation 6/Models/FV6/Bushes/Bush_6.fbx
+  - Assets/ART/7.Ocheon green/Bench_Chair/FBX/Bench_Chair.fbx
+  - Assets/Stylized Fantasy Vegetation 6/Models/FV6/Bushes/Bush_2.fbx
+  - Assets/ART/7.Ocheon green/1004_bjw_Ocheon/FBX/Tent.fbx
+  - Assets/ART/7.Ocheon green/FBX/5_pot.fbx
+  - Assets/ART/5.MI_lib/1013_LSW_Slate/FBX/slate.fbx
+  - Assets/ART/7.Ocheon green/1004_bjw_Ocheon/FBX/Boat.fbx
+  - Assets/Stylized Fantasy Vegetation 6/Models/FV6/Grass/Grass_2.fbx
+  - Assets/ART/7.Ocheon green/1019_jje_BeanBag/Bean_Bag/FBX/Bean_Bag.fbx
+  - Assets/Stylized Fantasy Vegetation 6/Models/FV6/Aquatic_plants/Water_lily_3.fbx
+  - Assets/ART/7.Ocheon green/1010_JSK_Prop/FBX/prop.fbx
+  - Assets/ART/7.Ocheon green/FBX/Stage_stairs.fbx
+  - Assets/Stylized Fantasy Vegetation 6/Models/FV6/Aquatic_plants/Water_lily_2.fbx
+  - Assets/Stylized Fantasy Vegetation 6/Models/FV6/Others/Mushroom_1.fbx
+  - Assets/ART/7.Ocheon green/FBX/forest.fbx
+  - Assets/ART/1.SS_lib/1006_JSK_SamsanLibrary/FBX/samsan_Library.fbx
+  - Assets/ART/7.Ocheon green/1004_bjw_Ocheon/FBX/Pot-2.fbx
+  - Assets/Stylized Fantasy Vegetation 6/Models/FV6/Grass/Grass_1.fbx
+  - Assets/ART/7.Ocheon green/1004_bjw_Ocheon/FBX/Pot-1.fbx
+  - Assets/ART/7.Ocheon green/1004_bjw_Ocheon/FBX/Pannel-5.fbx
+  - Assets/ART/7.Ocheon green/ConcertHall/FBX/Stage.fbx
+  - Assets/ART/7.Ocheon green/1005_jje_WaterGarden/Garden_Entrance/FBX/Garden_Entrance.fbx
+  - Assets/Stylized Fantasy Vegetation 6/Models/FV6/Trees/Tree_2.fbx
+  - Assets/Stylized Fantasy Vegetation 6/Models/FV6/Trees/Tree_1.fbx
+  - Assets/Stylized Fantasy Vegetation 6/Models/FV6/Aquatic_plants/Water_lily_6.fbx
+  - Assets/ART/4.JL_lib/Containers/Meshes/Containers/CnWallA1.fbx
+  - Assets/ART/7.Ocheon green/Hill/FBX/Hill_2.fbx
+  - Assets/ART/7.Ocheon green/1013_LSW_Screen, Podium/FBX/Screen/Screen_Stick.fbx
+  - Assets/ART/7.Ocheon green/1013_LSW_Screen, Podium/FBX/Podium/Podium.fbx
+  - Assets/ART/4.JL_lib/Containers/Meshes/Containers/CnRoofA1.fbx
+  - Assets/Stylized Fantasy Vegetation 6/Models/FV6/Aquatic_plants/Water_lily_5.fbx
+  - Assets/ART/4.JL_lib/Containers/Meshes/Night Art Museum.fbx
+  - Assets/Stylized Fantasy Vegetation 6/Models/FV6/Trees/Tree_8.fbx
+  - Assets/ART/7.Ocheon green/1004_bjw_Ocheon/FBX/SafeBox.fbx
+  - Assets/ART/7.Ocheon green/1005_jje_WaterGarden/WaterGarden_Larva/FBX/WaterGarden_Larva.fbx
+  - Assets/ART/7.Ocheon green/1004_bjw_Ocheon/FBX/Pannel-3.fbx
+  - Assets/ART/7.Ocheon green/1005_jje_WaterGarden/WaterGarden_Cup/FBX/WaterGarden_Cup.fbx
+  - Assets/ART/7.Ocheon green/FBX/3_pot.fbx
+  - Assets/ART/7.Ocheon green/1004_bjw_Ocheon/FBX/Aquarium.fbx
+  - Assets/ART/7.Ocheon green/1004_bjw_Ocheon/FBX/Pannel-2.fbx
+  - Assets/ART/7.Ocheon green/FBX/deco_obj.fbx
+  - Assets/ART/7.Ocheon green/1004_bjw_Ocheon/FBX/Pannel-4.fbx
+  - Assets/ART/7.Ocheon green/1005_jje_WaterGarden/WaterGarden_Duck/FBX/WaterGarden_Duck.fbx
+  - Assets/Stylized Fantasy Vegetation 6/Models/FV6/Others/Flowers_2.fbx
+  - Assets/Stylized Fantasy Vegetation 6/Models/FV6/Trees/Tree_9.fbx
+  - Assets/Stylized Fantasy Vegetation 6/Models/FV6/Bushes/Bush_7.fbx
+  - Assets/Stylized Fantasy Vegetation 6/Models/FV6/Bushes/Bush_1.fbx
+  - Assets/Stylized Fantasy Vegetation 6/Models/FV6/Trees/Tree_13.fbx
+  - Assets/Polytope Studio/Lowpoly Medieval Environments/Sources/Meshes/Rocks/PT_River_Rock_Pile_02.fbx
+  - Assets/Stylized Fantasy Vegetation 6/Models/FV6/Others/Flowers_1.fbx
+  - Assets/Stylized Fantasy Vegetation 6/Models/FV6/Trees/Tree_7.fbx
+  - Assets/Stylized Fantasy Vegetation 6/Models/FV6/Trees/Tree_10.fbx
+  - Assets/Stylized Fantasy Vegetation 6/Models/FV6/Trees/Tree_11.fbx
+  - Assets/ART/2.PB_lib/FBX/PB_lib.fbx
+  - Assets/ART/2.PB_lib/FBX/PB_lib_DECO_1.fbx
+  - Assets/ART/2.PB_lib/0908_jje_GirlStatue/FBX/Girl_statue.fbx
+  - Assets/ART/4.JL_lib/FBX/JL_lib.fbx
+  - Assets/ART/6.SD_lib/1016_JSK_SDlib/FBX/SD_lib.fbx
+  - Assets/Stylized Fantasy Vegetation 6/Models/FV6/Grass/Grass_5.fbx
+  - Assets/ART/5.MI_lib/FBX/MI_lib.fbx
+  - Assets/Stylized Fantasy Vegetation 6/Models/FV6/Others/Liana_1.fbx
+  - Assets/ART/3.YH_lib/FBX/YH_lib_2.fbx
+  - Assets/Stylized Fantasy Vegetation 6/Models/FV6/Others/Liana_2.fbx
+  - Assets/ART/5.MI_lib/FBX/alpha_deco.fbx
+  - Assets/Numena/Plants/Bamboo/Source/bamboo groups.fbx
+  modifiedAssetPaddingHash: d6a958ffecc12491d45634b7ecc12491ecc12491ecc12491ecc12491ecc12491ecc12491ecc12491ecc12491ecc12491ecc12491cc318883ecc12491c1d15080ecc124911638ed04eec3a693c5d00ea8ef37ed04ecc12491275031eecc3188834adc894bda7d9363f086283cbe398033b94608c8eddb894bc2c4d890c3abe3d175f23a06f50aecc0ecc12491323fd3d9e09b14bf275031ee5d398033377e9363bb4608c843105da04adc894bc25031eee55031eefe27c115eddb894b333fd3d90aa1c2a6907f9363885031eebe4608c85a7339336d67e2a82009ecc0c04dfff0cedb894bf8398033b42420035267e2a8fa4dfff0fd7d9363ecc124916209ecc0ecc12491af67e2a81528c115ecc12491885031eeecb4d8acecc124919d4dfff03367e2a83f3fd3d93eb4e2002a27835a97c6d89005712cb0031b94e5af5634b7aa3595dc0938ed043df6e80e09b309ce184360a46cf97536

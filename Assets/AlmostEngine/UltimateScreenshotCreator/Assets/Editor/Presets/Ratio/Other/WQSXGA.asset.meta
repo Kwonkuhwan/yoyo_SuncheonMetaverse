@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1e3761b029426dd46b9e8253c159e2a4
+timeCreated: 1545143574
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82008
+  packageName: Ultimate Screenshot Creator
+  packageVersion: 1.11.4
+  assetPath: Assets/AlmostEngine/UltimateScreenshotCreator/Assets/Editor/Presets/Ratio/Other/WQSXGA.asset
+  uploadId: 569867

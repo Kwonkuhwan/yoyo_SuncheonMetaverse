@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ad4c9a4e6b337144c8e80e6ed369b8ac
+timeCreated: 1556840330
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82008
+  packageName: Ultimate Screenshot Creator
+  packageVersion: 1.11.4
+  assetPath: Assets/AlmostEngine/UltimateScreenshotCreator/Assets/Editor/Presets/StoreScreenshots/AppStore/Apple
+    Watch Series 3.asset
+  uploadId: 569867

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b9613cc0abad23e44a3a6cea3e636955
+timeCreated: 1556843219
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82008
+  packageName: Ultimate Screenshot Creator
+  packageVersion: 1.11.4
+  assetPath: Assets/AlmostEngine/UltimateScreenshotCreator/Assets/Editor/Presets/StoreScreenshots/PlayStore/Android
+    Phones (Pixel2 - Full HD).asset
+  uploadId: 569867

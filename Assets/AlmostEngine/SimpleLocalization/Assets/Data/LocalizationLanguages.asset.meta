@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 6a459a2030076344cab85c5ffef4610e
+timeCreated: 1587728329
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82008
+  packageName: Ultimate Screenshot Creator
+  packageVersion: 1.11.4
+  assetPath: Assets/AlmostEngine/SimpleLocalization/Assets/Data/LocalizationLanguages.asset
+  uploadId: 569867

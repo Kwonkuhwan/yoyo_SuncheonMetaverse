@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 43efd2c00287db14d8371429332689d0
+timeCreated: 1545143572
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82008
+  packageName: Ultimate Screenshot Creator
+  packageVersion: 1.11.4
+  assetPath: Assets/AlmostEngine/UltimateScreenshotCreator/Assets/Editor/Presets/Ratio/16_9/WSVGA.asset
+  uploadId: 569867

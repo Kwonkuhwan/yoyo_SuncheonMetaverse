@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 5847881a4a3b1604a8b23480550bea92
+  m_SerializeEntries:
+  - m_GUID: 1c4f5ff1a7821ca41b9ae1760193a9f4
+    m_Address: 02_Garden_Scene
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e4ddaf8a0e6ff0647a407cc177627469
+    m_Address: 03_Inside
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c3053e0a0ebd7b7488a1963dc8144542
+    m_Address: 04_Myroom
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 78b73915f3e033c4cb661ee04dfcce66
+    m_Address: 05_AVRoom
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 69fa11b21362cf54892ddae3f7a252f8, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: b225bef7a0d72994eba497672b74d772, type: 2}
+    - {fileID: 11400000, guid: bbb39dd33ea8a5349a886eae47d6719e, type: 2}

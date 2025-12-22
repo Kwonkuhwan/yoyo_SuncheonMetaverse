@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 45def896ff9ca1044a30efb9a8b59caa
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bench
+    second: {fileID: 2100000, guid: bc16d09b80c22664b87775568f56a13c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BodyBlue
+    second: {fileID: 2100000, guid: a2511a245a102a447b0b823539813a53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FencePlane
+    second: {fileID: 2100000, guid: a957fb7030656c34ca3302b467868007, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GlassWall
+    second: {fileID: 2100000, guid: 94f42d25ba2eba740b8d86a385bf9741, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gray_Stone
+    second: {fileID: 2100000, guid: 6a571c99fb57b6e4eb3185e92bf2c8a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gray_Stonewall
+    second: {fileID: 2100000, guid: fe8ae73f7d7e8ac4ab1638438300e56f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane1
+    second: {fileID: 2100000, guid: 39f560b8bb8cf4b4699e944bd9de7126, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane2
+    second: {fileID: 2100000, guid: 8fedbb15f261c8d4f8836974d4f8664d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop1
+    second: {fileID: 2100000, guid: 10f92352deb0f4a4f9e0886828460fc8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop2
+    second: {fileID: 2100000, guid: 8ababc6845961ec4ca1abe9179be00f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Window
+    second: {fileID: 2100000, guid: 382a9ba44b363474083a7ce8bde23b4c, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties:
+    - '#BAKERY{"meshName":["bench","door1","cultureplane","pPlane59","pPlane60","cafedoor","cafeun1","pCube238","pCube239","ele1","ele","cafeun2","pCylinder8","cafelogo","cafelogo1","cafelogo2","cafelogo3","pCube347","pPlane58","pPlane45","pPlane46","pPlane47","pPlane40","pPlane34","pPlane25","pPlane48","pPlane27","pPlane28","pPlane29","pPlane26","pPlane49","pPlane54","pPlane55","pPlane56","pPlane57","pPlane50","pPlane51","pPlane52","pPlane53","pCube348","pCube349","garbagecan","Banner","pCube374","pCube375","pCube376","pCube377","pCube378","pPlane30","pPlane37","pPlane41","pPlane42","pCube373","pCube359","pCube358","pPlane43","pCube350","pCube351","pCube352","glassbody","gray_Stone","gray_Stonewall","window","fenceplane","pPlane24","Blue_edge","pPlane44","glass1","glass2","prop1","prop2","pPlane66","pPlane23"],"padding":[16,37,21,162,38,69,66,42,42,27,44,66,74,101,68,53,101,42,162,126,62,33,34,32,77,144,256,256,256,77,138,256,256,256,256,118,256,256,256,42,42,47,49,243,243,161,161,161,90,49,90,256,243,161,243,256,42,42,42,1,21,1,12,9,32,1,256,4,4,7,3,34,113],"unwrapper":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]}'
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5122103bbd1aade459bf940030cf1f33
+timeCreated: 1534435083
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82008
+  packageName: Ultimate Screenshot Creator
+  packageVersion: 1.11.4
+  assetPath: Assets/AlmostEngine/UltimateScreenshotCreator/Assets/Editor/PhotoUsageDescription.asset
+  uploadId: 569867

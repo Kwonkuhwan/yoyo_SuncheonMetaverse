@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2868eb6c6d5c20247a5812fe56e56cd5
+timeCreated: 1545143574
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82008
+  packageName: Ultimate Screenshot Creator
+  packageVersion: 1.11.4
+  assetPath: Assets/AlmostEngine/UltimateScreenshotCreator/Assets/Editor/Presets/Ratio/Other/1136x640.asset
+  uploadId: 569867

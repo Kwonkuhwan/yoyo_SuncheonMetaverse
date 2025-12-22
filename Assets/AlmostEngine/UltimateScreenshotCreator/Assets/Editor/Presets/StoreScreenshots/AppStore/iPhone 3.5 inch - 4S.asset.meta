@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ea024ed8ec0a91a42ab1cb6981b5f792
+timeCreated: 1556840215
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82008
+  packageName: Ultimate Screenshot Creator
+  packageVersion: 1.11.4
+  assetPath: Assets/AlmostEngine/UltimateScreenshotCreator/Assets/Editor/Presets/StoreScreenshots/AppStore/iPhone
+    3.5 inch - 4S.asset
+  uploadId: 569867

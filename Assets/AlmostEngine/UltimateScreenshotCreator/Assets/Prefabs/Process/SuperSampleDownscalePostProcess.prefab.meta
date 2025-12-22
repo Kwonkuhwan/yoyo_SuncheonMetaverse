@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a6c37c3b6c56f8f40be36494554fb180
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82008
+  packageName: Ultimate Screenshot Creator
+  packageVersion: 1.11.4
+  assetPath: Assets/AlmostEngine/UltimateScreenshotCreator/Assets/Prefabs/Process/SuperSampleDownscalePostProcess.prefab
+  uploadId: 569867

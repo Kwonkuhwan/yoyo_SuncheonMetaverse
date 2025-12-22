@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f576c276a6216624e9c563dc13cd5512
+timeCreated: 1556840368
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82008
+  packageName: Ultimate Screenshot Creator
+  packageVersion: 1.11.4
+  assetPath: Assets/AlmostEngine/UltimateScreenshotCreator/Assets/Editor/Presets/StoreScreenshots/AppStore/Apple
+    TV 4K.asset
+  uploadId: 569867

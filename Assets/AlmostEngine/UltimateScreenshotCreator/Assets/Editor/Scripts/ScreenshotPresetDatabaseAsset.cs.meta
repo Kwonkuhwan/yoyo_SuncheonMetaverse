@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7a9612686a05c654d99bdcc7b09e9b77
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82008
+  packageName: Ultimate Screenshot Creator
+  packageVersion: 1.11.4
+  assetPath: Assets/AlmostEngine/UltimateScreenshotCreator/Assets/Editor/Scripts/ScreenshotPresetDatabaseAsset.cs
+  uploadId: 569867

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 90d0bdc08bedbc6459068aff3aca38dc
+timeCreated: 1619281643
+licenseType: Store
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82008
+  packageName: Ultimate Screenshot Creator
+  packageVersion: 1.11.4
+  assetPath: Assets/AlmostEngine/Shared/AlmostEngine.Shared.asmdef
+  uploadId: 569867

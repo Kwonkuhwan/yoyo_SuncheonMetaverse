@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3f3b68f7801d09f44b5b113f3643431a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82008
+  packageName: Ultimate Screenshot Creator
+  packageVersion: 1.11.4
+  assetPath: Assets/AlmostEngine/UltimateScreenshotCreator/Assets/Scripts/ExtraFeatures/Process/DownscaleScreenshotPostProcess.cs
+  uploadId: 569867

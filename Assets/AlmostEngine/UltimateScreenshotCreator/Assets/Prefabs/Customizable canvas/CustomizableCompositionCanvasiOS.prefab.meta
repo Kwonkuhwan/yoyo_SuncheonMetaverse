@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b6b50f2c07310fc45889d6b8c90e2628
+timeCreated: 1545128851
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82008
+  packageName: Ultimate Screenshot Creator
+  packageVersion: 1.11.4
+  assetPath: Assets/AlmostEngine/UltimateScreenshotCreator/Assets/Prefabs/Customizable
+    canvas/CustomizableCompositionCanvasiOS.prefab
+  uploadId: 569867

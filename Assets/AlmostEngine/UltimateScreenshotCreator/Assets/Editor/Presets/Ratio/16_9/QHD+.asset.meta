@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 439980627ec905a4c9e525e76cc120ad
+timeCreated: 1545143573
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82008
+  packageName: Ultimate Screenshot Creator
+  packageVersion: 1.11.4
+  assetPath: Assets/AlmostEngine/UltimateScreenshotCreator/Assets/Editor/Presets/Ratio/16_9/QHD+.asset
+  uploadId: 569867

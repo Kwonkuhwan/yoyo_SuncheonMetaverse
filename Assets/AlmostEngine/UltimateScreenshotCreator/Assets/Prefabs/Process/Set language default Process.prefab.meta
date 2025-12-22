@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 40c902892156f224a95b4e1d4bc06f7e
+timeCreated: 1545130572
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82008
+  packageName: Ultimate Screenshot Creator
+  packageVersion: 1.11.4
+  assetPath: Assets/AlmostEngine/UltimateScreenshotCreator/Assets/Prefabs/Process/Set
+    language default Process.prefab
+  uploadId: 569867

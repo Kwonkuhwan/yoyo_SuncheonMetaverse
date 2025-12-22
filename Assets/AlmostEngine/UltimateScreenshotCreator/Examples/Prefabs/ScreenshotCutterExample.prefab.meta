@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: cc2f6b4ae2019f24ba04cd7fc05986c2
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82008
+  packageName: Ultimate Screenshot Creator
+  packageVersion: 1.11.4
+  assetPath: Assets/AlmostEngine/UltimateScreenshotCreator/Examples/Prefabs/ScreenshotCutterExample.prefab
+  uploadId: 569867

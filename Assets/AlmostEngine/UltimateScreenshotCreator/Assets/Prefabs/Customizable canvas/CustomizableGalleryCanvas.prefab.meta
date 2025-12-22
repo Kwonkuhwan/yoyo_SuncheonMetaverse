@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ad6348ba83e8e3344ab521f439dce39c
+timeCreated: 1534172672
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 82008
+  packageName: Ultimate Screenshot Creator
+  packageVersion: 1.11.4
+  assetPath: Assets/AlmostEngine/UltimateScreenshotCreator/Assets/Prefabs/Customizable
+    canvas/CustomizableGalleryCanvas.prefab
+  uploadId: 569867
