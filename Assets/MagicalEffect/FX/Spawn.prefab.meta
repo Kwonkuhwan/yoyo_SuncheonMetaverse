@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8ae3b38ace1bbc64bb1875bf0c8755ee
+timeCreated: 1464544854
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63956
+  packageName: Magical - Effects
+  packageVersion: 1.0
+  assetPath: Assets/MagicalEffect/FX/Spawn.prefab
+  uploadId: 263622

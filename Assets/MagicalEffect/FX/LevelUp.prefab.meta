@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 53b60f2404cd3ec4e9b031268853249c
+timeCreated: 1464427133
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63956
+  packageName: Magical - Effects
+  packageVersion: 1.0
+  assetPath: Assets/MagicalEffect/FX/LevelUp.prefab
+  uploadId: 263622

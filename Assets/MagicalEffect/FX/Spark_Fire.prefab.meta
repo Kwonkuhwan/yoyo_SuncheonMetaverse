@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c366b368ddb407644b494b388b6babdb
+timeCreated: 1464420341
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63956
+  packageName: Magical - Effects
+  packageVersion: 1.0
+  assetPath: Assets/MagicalEffect/FX/Spark_Fire.prefab
+  uploadId: 263622

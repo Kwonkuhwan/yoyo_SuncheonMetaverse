@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0994c5249ae5d0a4dbd3780975f4d6ff
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 208301
+  packageName: Kekos - Customizable 3D Character Cartoon Kids
+  packageVersion: 1.1.0
+  assetPath: Assets/Mameshiba Games/External/Shaders/Bloom/Bloom.shader
+  uploadId: 512813

@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Trigger
+  - Spawner
+  - UI_Player_Camera
+  - UI_MyRoom_Camera
+  - Wall
+  - Furniture
+  - Floor
+  - RoomCamera
+  - Inside_Trigger
+  - UI_MiniGame_Camera
+  - Bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Floor
+  - Wall
+  - NoFurniture
+  - PlayerWall
+  - PhotoZone
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - NPC
+  - Char
+  - Player
+  - PlayerUI
+  - pic
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

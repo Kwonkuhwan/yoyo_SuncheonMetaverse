@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: de82aa9e4b88b334cadc636be187ac27
+timeCreated: 1464185577
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63956
+  packageName: Magical - Effects
+  packageVersion: 1.0
+  assetPath: Assets/MagicalEffect/Sources/Materials/ray_light.mat
+  uploadId: 263622

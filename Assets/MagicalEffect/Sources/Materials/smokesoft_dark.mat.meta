@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ab3c8c7c14bf67746bdea17bb528b655
+timeCreated: 1464579719
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63956
+  packageName: Magical - Effects
+  packageVersion: 1.0
+  assetPath: Assets/MagicalEffect/Sources/Materials/smokesoft_dark.mat
+  uploadId: 263622

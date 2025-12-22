@@ -1,0 +1,112 @@
+{
+  "fileUrl": "https://suncheonlib.yoyointeractive.co.kr/upload/",
+
+  "serviceUrl": "https://suncheonlib.yoyointeractive.co.kr/suncheonlib/",
+  "loginUrl": "frnt/login/login.do",
+  "logoutUrl": "frnt/login/logOut.do",
+  "nonLoginUrl": "frnt/login/nonMemberLogin.do",
+  "nickNameCheckUrl": "frnt/login/nicknameDupe.ax",
+  "avatarSaveUrl": "frnt/login/avatar.ax",
+  "avatarLoadUrl": "frnt/login/avatarSearch.ax",
+
+  "channalCntUrl": "frnt/suncheonUserCnt.ax",
+  "channalCntPlusUrl": "frnt/suncheonUserCntPlus.ax",
+  "channalCntMinusUrl": "frnt/suncheonUserCntMinus.ax",
+  "createClubUrl": "frnt/groupMng/createClubMng.do",
+  "updateClubInfoUrl": "frnt/groupMng/udtClubMng.do",
+  "joinClubUrl": "frnt/group/register.ax",
+  "getClubPeopleInfoUrl": "frnt/group/groupApplicant.ax",
+  "kickClubUrl": "frnt/group/groupKick.do",
+  "quitClubUrl": "frnt/group/groupQuit.do",
+  "deleteClubUrl": "frnt/groupMng/deleteGroup.do",
+  "createdClubInfoUrl": "frnt/createdGroupList.ax",
+  "joinedClubInfoUrl": "frnt/groupIngList.ax",
+  "enterFlagClubUrl": "frnt/groupEnterFlag.ax",
+
+  "userBlockUrl": "frnt/community/userBlock.ax",
+  "userUnBlockUrl": "frnt/community/userUnblock.ax",
+  "userBlockListUrl": "frnt/community/myBlockList.ax",
+  "checkBlockFlag": "frnt/community/checkBlockFlag.ax",
+
+  "userCommList": "frnt/community/userCommList.ax",
+  "writeComm": "frnt/community/writeComm.ax",
+  "myCommList": "frnt/community/myCommList.ax",
+  "DelComm": "frnt/community/deleteComm.ax",
+
+  "FurnitureSaveUrl": "frnt/upsertMyPrivateBook.ax",
+  "MyFurnitureLoadUrl": "frnt/myPrivateBook.ax",
+  "userFurnitureLoad": "frnt/userPrivateBook.ax",
+
+  "userIdCheck": "frnt/login/nickToId.ax",
+  "mngrDashBoardCntData": "frnt/group/getDashboardCntData.ax",
+  "mngrDashBoardChartData": "frnt/group/getChartData.ax",
+
+  "mngrLogin": "frnt/login/mngrLogin.do",
+
+  "mngrNotice": "frnt/mngr/notice.ax",
+
+  "mngrEventList": "frnt/mngr/event.ax",
+  "mngrEventUrlLoad": "frnt/mngr/eventUrl.ax",
+  "mngrEventUrlSave": "frnt/mngr/eventUrl.ax",
+  "mngrEventUrlDelete": "frnt/mngr/deleteEvent.ax",
+  "mngrEventSet": "frnt/mngr/event.ax",
+
+  "mngrMiniGameSave": "frnt/mngr/game.ax",
+  "mngrMiniGameLoad": "frnt/mngr/game.ax",
+  "mngrMiniGameUpdate": "frnt/mngr/updateGame.ax",
+
+  "mngrExhibitionLoad": "frnt/mngr/exhibition.ax",
+  "mngrExhibitionSave": "frnt/mngr/insertExhibition.ax",
+  "mngrExhibitionUpdate": "frnt/mngr/updateExhibition.ax",
+
+  "mngrScreenLoad": "frnt/mngr/screen.ax",
+  "mngrScreenSave": "frnt/mngr/insertScreen.ax",
+  "mngrScreenUpdate": "frnt/mngr/updateScreen.ax",
+
+  "mngrBannerLoad": "frnt/mngr/banner.ax",
+  "mngrBannerSave": "frnt/mngr/insertBanner.ax",
+  "mngrBannerUpdate": "frnt/mngr/updateBanner.ax",
+
+  "devChannelReset": "frnt/channelReset.ax",
+
+  "missionInfoLoad": "frnt/community/userMission.ax",
+  "missionInfoUpdate": "frnt/community/upsertUserMission.ax",
+
+  "newComm": "frnt/community/myCommViewFlag.ax",
+  "ReadnewComm": "frnt/community/updateMyCommView.ax",
+
+  "SaveRecmComm": "frnt/community/insertRecommendBook.ax",
+  "GetRecmList": "frnt/community/recommendBook.ax",
+  "SelectRecmBook": "frnt/community/selectRecommendBook.ax",
+  "DeleteRecmComm": "frnt/community/deleteRecommendBook.ax",
+
+  "upsertUserTreasure": "frnt/community/upsertUserTreasure.ax",
+  "userTreasure": "frnt/community/userTreasure.ax",
+
+  "mngrNpcFAQLoad": "frnt/mngr/faq.ax",
+  "mngrNpcFAQSave": "frnt/mngr/faq.ax",
+
+  "mngrGBookOrRBookLoad": "frnt/community/report.ax",
+  "mngrGBookOrRBookRestoration": "frnt/community/reportRestoration.ax",
+  "mngrGBookOrRBookDelete": "frnt/community/reportDelete.ax",
+
+  "mngrMuseumImageSave": "frnt/mngr/museum.ax",
+  "mngrMuseumImageLoad": "frnt/mngr/museum.ax",
+
+  "report": "frnt/community/report.ax",
+
+  "mngrChildrenArtSave": "frnt/mngr/childrenArt.ax",
+  "mngrChildrenArtLoad": "frnt/mngr/childrenArt.ax",
+
+  "mngrVoteProcess": "frnt/mngr/selectVote.ax",
+  "mngrVoteInsert": "frnt/mngr/insertVote.ax",
+  "mngrVoteResult": "frnt/mngr/selectVoteResult.ax",
+  "mngrVoteSelectUser": "frnt/community/selectUserVoteInfo.ax",
+  "mngrVoteSelect": "frnt/community/userVote.ax",
+
+  "userMiniGameCntSet": "frnt/mngr/userGameCntSet.ax",
+  "userLibCntPlus": "frnt/community/userlibCntPlus.ax",
+  "userMissionInfo": "frnt/community/userMissionInfo.ax",
+  "insertUserReward": "frnt/community/insertUserReward.ax",
+  "userRewardInfo": "frnt/community/userRewardInfo.ax"
+}

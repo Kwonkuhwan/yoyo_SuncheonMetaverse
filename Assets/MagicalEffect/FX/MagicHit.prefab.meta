@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 955542cccab78af41835b6804374ef97
+timeCreated: 1464548429
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63956
+  packageName: Magical - Effects
+  packageVersion: 1.0
+  assetPath: Assets/MagicalEffect/FX/MagicHit.prefab
+  uploadId: 263622

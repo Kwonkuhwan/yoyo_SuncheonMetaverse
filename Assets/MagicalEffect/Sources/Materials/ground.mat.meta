@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 953b8c7ea0753e74ea46b0fb5f3f6386
+timeCreated: 1463747569
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63956
+  packageName: Magical - Effects
+  packageVersion: 1.0
+  assetPath: Assets/MagicalEffect/Sources/Materials/ground.mat
+  uploadId: 263622

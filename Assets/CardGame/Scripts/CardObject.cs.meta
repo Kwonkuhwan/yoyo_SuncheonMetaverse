@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4588bb048f222fa43804f627ce398916
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fCardSprite: {instanceID: 0}
+  - bCardSprite: {instanceID: 0}
+  - ani: {instanceID: 0}
+  - mat: {fileID: 2100000, guid: 4b87ff065e0a64d44969b65cf40cda84, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

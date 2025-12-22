@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8e6ea88d207a90c40bf4d680909a27f5
+timeCreated: 1464447442
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63956
+  packageName: Magical - Effects
+  packageVersion: 1.0
+  assetPath: Assets/MagicalEffect/FX/Flaming.prefab
+  uploadId: 263622

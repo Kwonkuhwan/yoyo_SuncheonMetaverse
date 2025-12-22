@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 39a6798c80b4540478de149b50626e98
+timeCreated: 1464445018
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63956
+  packageName: Magical - Effects
+  packageVersion: 1.0
+  assetPath: Assets/MagicalEffect/FX/Casting.prefab
+  uploadId: 263622

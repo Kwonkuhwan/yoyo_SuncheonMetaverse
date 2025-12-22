@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6b107c55792d330439b5a3810976f527
+timeCreated: 1464187098
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63956
+  packageName: Magical - Effects
+  packageVersion: 1.0
+  assetPath: Assets/MagicalEffect/FX/Stun_Normal.prefab
+  uploadId: 263622

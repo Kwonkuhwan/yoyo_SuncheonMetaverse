@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: c42e808de3d998f4d9c0c154f5470b4b
+timeCreated: 1512098118
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 208301
+  packageName: Kekos - Customizable 3D Character Cartoon Kids
+  packageVersion: 1.1.0
+  assetPath: Assets/Mameshiba Games/External/ColorThief/Scripts/ColorThieft.Shared/Mmcq.cs
+  uploadId: 512813

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b7e2c1480814b4177bafeeb1ec3faf92
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 202522
+  packageName: 2D WebView for WebGL (Web Browser IFrame)
+  packageVersion: 4.6
+  assetPath: Assets/Vuplex/WebView/Documentation/static/js/runtime~main.4a686d48.jsm
+  uploadId: 637407

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 8158ae4eda795d941ac059fec14e160d
+timeCreated: 1463746472
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63956
+  packageName: Magical - Effects
+  packageVersion: 1.0
+  assetPath: Assets/MagicalEffect/Sources/Scripts/FX_LifeTime.cs
+  uploadId: 263622

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8eeb1a6bf535aa647807d0af29720677
+timeCreated: 1464616513
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63956
+  packageName: Magical - Effects
+  packageVersion: 1.0
+  assetPath: Assets/MagicalEffect/Sources/Materials/thunder.mat
+  uploadId: 263622

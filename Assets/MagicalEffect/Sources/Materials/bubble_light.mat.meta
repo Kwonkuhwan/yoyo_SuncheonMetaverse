@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c2857df824ad9954986d58700987685d
+timeCreated: 1464426196
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63956
+  packageName: Magical - Effects
+  packageVersion: 1.0
+  assetPath: Assets/MagicalEffect/Sources/Materials/bubble_light.mat
+  uploadId: 263622

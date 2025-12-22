@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 66a5d9350de11f243977e91fc14e182e
+timeCreated: 1464547650
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63956
+  packageName: Magical - Effects
+  packageVersion: 1.0
+  assetPath: Assets/MagicalEffect/Sources/Materials/spark_blend.mat
+  uploadId: 263622

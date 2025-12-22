@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 076e87eaa0c43fd4e84ad6f551871c88
+timeCreated: 1464577959
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63956
+  packageName: Magical - Effects
+  packageVersion: 1.0
+  assetPath: Assets/MagicalEffect/FX/Sleep.prefab
+  uploadId: 263622

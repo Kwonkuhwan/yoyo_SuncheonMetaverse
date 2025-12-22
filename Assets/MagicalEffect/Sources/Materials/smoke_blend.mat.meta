@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 01a69667c096f5a429446e021db39dd3
+timeCreated: 1464547809
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63956
+  packageName: Magical - Effects
+  packageVersion: 1.0
+  assetPath: Assets/MagicalEffect/Sources/Materials/smoke_blend.mat
+  uploadId: 263622

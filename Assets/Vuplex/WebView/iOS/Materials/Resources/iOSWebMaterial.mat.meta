@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 900c52203be2f403587d07144d3617a5
+timeCreated: 1521940727
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135383
+  packageName: 3D WebView for Android and iOS (Web Browser)
+  packageVersion: 4.6.1
+  assetPath: Assets/Vuplex/WebView/iOS/Materials/Resources/iOSWebMaterial.mat
+  uploadId: 638897

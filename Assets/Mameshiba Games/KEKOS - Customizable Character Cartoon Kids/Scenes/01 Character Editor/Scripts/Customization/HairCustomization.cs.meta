@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: eb8526551cb369e48bbfe1715f5dd8f9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 208301
+  packageName: Kekos - Customizable 3D Character Cartoon Kids
+  packageVersion: 1.1.0
+  assetPath: Assets/Mameshiba Games/KEKOS - Customizable Character Cartoon Kids/Scenes/01
+    Character Editor/Scripts/Customization/HairCustomization.cs
+  uploadId: 512813

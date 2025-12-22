@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6ca9bd52520cded4c8002ec0a7f50c4d
+timeCreated: 1464184587
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63956
+  packageName: Magical - Effects
+  packageVersion: 1.0
+  assetPath: Assets/MagicalEffect/Sources/Materials/star_light.mat
+  uploadId: 263622

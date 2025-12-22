@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bd8f31982ff8e7340a61687b6d283d77
+timeCreated: 1464449459
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63956
+  packageName: Magical - Effects
+  packageVersion: 1.0
+  assetPath: Assets/MagicalEffect/Sources/Materials/magical.mat
+  uploadId: 263622

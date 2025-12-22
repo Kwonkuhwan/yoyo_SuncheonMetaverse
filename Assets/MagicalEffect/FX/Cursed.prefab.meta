@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0b4a81f2c40d54a4a89d65b2f8762c42
+timeCreated: 1464423055
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63956
+  packageName: Magical - Effects
+  packageVersion: 1.0
+  assetPath: Assets/MagicalEffect/FX/Cursed.prefab
+  uploadId: 263622

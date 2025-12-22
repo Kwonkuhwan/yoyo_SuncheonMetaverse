@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6908a932bccee984a9380dd0faa85382
+timeCreated: 1464532909
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63956
+  packageName: Magical - Effects
+  packageVersion: 1.0
+  assetPath: Assets/MagicalEffect/FX/MagicUp.prefab
+  uploadId: 263622

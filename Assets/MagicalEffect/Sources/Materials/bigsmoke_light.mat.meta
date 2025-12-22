@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 396fadda3b372e042a98aa7380eb5a2d
+timeCreated: 1464419955
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63956
+  packageName: Magical - Effects
+  packageVersion: 1.0
+  assetPath: Assets/MagicalEffect/Sources/Materials/bigsmoke_light.mat
+  uploadId: 263622

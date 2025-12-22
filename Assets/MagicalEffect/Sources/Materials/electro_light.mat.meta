@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fe1cf0de11881684885cf4ad797b04b8
+timeCreated: 1464420155
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63956
+  packageName: Magical - Effects
+  packageVersion: 1.0
+  assetPath: Assets/MagicalEffect/Sources/Materials/electro_light.mat
+  uploadId: 263622

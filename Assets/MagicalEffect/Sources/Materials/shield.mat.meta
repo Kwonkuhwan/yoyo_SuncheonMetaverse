@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 76067c9d25c2c894f94f8624cc15a818
+timeCreated: 1464616492
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63956
+  packageName: Magical - Effects
+  packageVersion: 1.0
+  assetPath: Assets/MagicalEffect/Sources/Materials/shield.mat
+  uploadId: 263622

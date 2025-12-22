@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8d3e6a4fc3463d54db51082491f1b52d
+timeCreated: 1464183825
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63956
+  packageName: Magical - Effects
+  packageVersion: 1.0
+  assetPath: Assets/MagicalEffect/Sources/Materials/spiral_light.mat
+  uploadId: 263622

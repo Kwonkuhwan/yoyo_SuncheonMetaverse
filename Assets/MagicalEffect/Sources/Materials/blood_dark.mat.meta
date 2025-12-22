@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 85445ffc6aad080448fae010ad5e358d
+timeCreated: 1464446554
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63956
+  packageName: Magical - Effects
+  packageVersion: 1.0
+  assetPath: Assets/MagicalEffect/Sources/Materials/blood_dark.mat
+  uploadId: 263622

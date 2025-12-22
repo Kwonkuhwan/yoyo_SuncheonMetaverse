@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4cdab5ba0d3bdb64f9a935065ef9e89b
+timeCreated: 1464546453
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63956
+  packageName: Magical - Effects
+  packageVersion: 1.0
+  assetPath: Assets/MagicalEffect/FX/AquaBuff.prefab
+  uploadId: 263622

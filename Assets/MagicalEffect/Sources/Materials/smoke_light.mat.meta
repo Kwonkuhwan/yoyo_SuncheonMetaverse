@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2cab2dfc73d7eb64686000be777c6678
+timeCreated: 1464419181
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63956
+  packageName: Magical - Effects
+  packageVersion: 1.0
+  assetPath: Assets/MagicalEffect/Sources/Materials/smoke_light.mat
+  uploadId: 263622

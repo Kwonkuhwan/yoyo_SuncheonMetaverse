@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 23a03e1b10d9e71429d4606339c3ad37
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 208301
+  packageName: Kekos - Customizable 3D Character Cartoon Kids
+  packageVersion: 1.1.0
+  assetPath: Assets/Mameshiba Games/KEKOS - Customizable Character Cartoon Kids/Scenes/02
+    Demo/Scripts/RotateObject.cs
+  uploadId: 512813

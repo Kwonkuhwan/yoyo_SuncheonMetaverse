@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 95938157c875d024398e016b4db185dd
+timeCreated: 1464532560
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63956
+  packageName: Magical - Effects
+  packageVersion: 1.0
+  assetPath: Assets/MagicalEffect/FX/MagicEffect.prefab
+  uploadId: 263622

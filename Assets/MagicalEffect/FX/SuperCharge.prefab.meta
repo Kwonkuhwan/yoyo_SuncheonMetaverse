@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fcdaaa00b7c826a41ab9523824a5a66b
+timeCreated: 1464530849
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63956
+  packageName: Magical - Effects
+  packageVersion: 1.0
+  assetPath: Assets/MagicalEffect/FX/SuperCharge.prefab
+  uploadId: 263622

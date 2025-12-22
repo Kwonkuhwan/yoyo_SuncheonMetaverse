@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 702124a728c14f948bb013c7fbd498a0
+timeCreated: 1464543848
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63956
+  packageName: Magical - Effects
+  packageVersion: 1.0
+  assetPath: Assets/MagicalEffect/FX/Frostbite.prefab
+  uploadId: 263622

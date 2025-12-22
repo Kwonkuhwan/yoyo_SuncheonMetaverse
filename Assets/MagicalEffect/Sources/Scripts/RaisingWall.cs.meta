@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: df7f3923979a6e743bf820bb44475426
+timeCreated: 1463746473
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63956
+  packageName: Magical - Effects
+  packageVersion: 1.0
+  assetPath: Assets/MagicalEffect/Sources/Scripts/RaisingWall.cs
+  uploadId: 263622

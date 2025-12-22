@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 050b4a7775335b842a144faf608d9dff
+timeCreated: 1464580195
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63956
+  packageName: Magical - Effects
+  packageVersion: 1.0
+  assetPath: Assets/MagicalEffect/FX/Storm.prefab
+  uploadId: 263622

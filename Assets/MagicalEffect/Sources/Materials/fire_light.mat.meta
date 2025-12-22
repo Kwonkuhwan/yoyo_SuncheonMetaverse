@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: accd38c97939f2a4d88eb53d528d11e9
+timeCreated: 1464447457
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63956
+  packageName: Magical - Effects
+  packageVersion: 1.0
+  assetPath: Assets/MagicalEffect/Sources/Materials/fire_light.mat
+  uploadId: 263622

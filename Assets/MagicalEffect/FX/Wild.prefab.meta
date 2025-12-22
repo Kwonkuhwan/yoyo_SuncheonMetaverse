@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8b5531a88591a9648bea3f9c98a94d34
+timeCreated: 1464578892
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 63956
+  packageName: Magical - Effects
+  packageVersion: 1.0
+  assetPath: Assets/MagicalEffect/FX/Wild.prefab
+  uploadId: 263622
